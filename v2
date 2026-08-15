@@ -1,0 +1,8 @@
+PREFIXLIST = Literal[
+    "Normal",
+    "ForSRC",
+    "ForSRCCustom",
+    "StringList",
+    "StringChaos",
+    "StringChaosL",
+]
