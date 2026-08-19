@@ -1,1 +1,1 @@
-return["Normal", "ForSRC", "ForSRCCustom", "StringList", "StringChaos", "StringChaosL"]
+return["Normal", "ForSRC", "ForSRCCustom", "StringList", "StringChaos", "StringChaosL", "ReturnList", "OneLiner"]
