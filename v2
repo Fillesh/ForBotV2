@@ -5,4 +5,6 @@ PREFIXLIST = Literal[
     "StringList",
     "StringChaos",
     "StringChaosL",
+    "ReturnList", 
+    "OneLiner",
 ]
